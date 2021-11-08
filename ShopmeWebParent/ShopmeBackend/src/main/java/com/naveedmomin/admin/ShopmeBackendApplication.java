@@ -1,4 +1,4 @@
-package com.naveedmomin.shopmebackend;
+package com.naveedmomin.admin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

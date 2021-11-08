@@ -1,3 +1,4 @@
 rootProject.name = 'ShopmeWebParent'
 
 include ':ShopmeBackend'
+include ':ShopmeFrontend'
