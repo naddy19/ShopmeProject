@@ -1,0 +1,5 @@
+rootProject.name = 'ShopmeProject'
+
+include ':ShopmeCommon'
+include ':ShopmeWebParent'
+include ':ShopmeWebParent:ShopmeBackend'
